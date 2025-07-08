@@ -2,7 +2,7 @@
 
 AetherOS is an advanced operating system built from scratch using C and assembly language. It features modern OS capabilities including memory management, process control, file systems, networking, and more.
 
-| ![ScreenShot](screenshot.png) |
+
 | :--: |
 | *AetherOS v2.0 with Advanced Features* |
 
